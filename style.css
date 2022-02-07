@@ -1,0 +1,388 @@
+html, body{
+	background: #010E14;
+	font-family: Arial;
+	font-size: 16px;
+	
+}
+.clear {clear: both;}
+#randomname{
+	width: 90%;
+	max-width: 1000px;
+	background: #81A4CD;
+	margin: 30px auto;
+}
+.mainDetails{
+	float: auto;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	border-bottom: 1px solid #04030f;
+}
+.mainheader{
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	float: auto;
+	
+	border-bottom: 1px solid #04030f;
+}
+.bottomSection{
+	margin: 10px auto;
+	width: 90%;
+	max-width: 1000px;
+	
+	border: 1px solid #04030f;
+}
+.spacer{
+	padding: 5;
+	
+}
+.subheader{
+	padding-top: 10px;
+}
+#name{
+	float: auto;
+}
+#contactDetailsInfo{
+	float: right;
+	width: 60%;
+}
+
+#mainContent{
+	width: 90%;
+	max-width: 1000px;
+	margin: 10px auto;
+	border: 1px solid #04030f;
+}
+#mainContent embed{
+	width: 100%;
+}
+
+#referenceContent{
+	width: 90%;
+	max-width: 1000px;
+	margin: 10px auto;
+	border: 1px solid #04030f;
+}
+#referenceContent h4{
+	padding-top: 20px;
+	margin-top: 0px;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+#referenceContent p{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 20px;
+	margin-left: 20px;
+}
+#referenceContent p2{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-left: 20px;
+}
+#referenceContent a{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-left: 0px;
+}
+#techReport{
+	width: 90%;
+	max-width: 1000px;
+	margin: 10px auto;
+	border: 1px solid #04030f;
+}
+#techReport img{
+	width: 70%;
+	padding-bottom: 20px;
+}
+#techReport p2{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+#techReport p3{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+#techReport h4{
+	padding-left: 0px;
+}
+#techReport h2{
+	padding-left: 0px;
+	font-size: 1.5em;
+}
+#techReport3 h2{
+	padding-left: 0px;
+	font-size: 1.5em;
+}
+#techReport2{
+	width: 90%;
+	max-width: 1000px;
+	margin: 10px auto;
+	border: 1px solid #04030f;
+}
+#techReport2 video{
+	padding-top: 20px;
+	width: 70%;
+	max-width: 700px;
+}
+#techReport2 h4{
+	padding-left: 20px;
+}
+#techReport2 p{
+	padding-left: 20px;
+}
+#techReport2 p2{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+#techReport2 img{
+	width: 90%;
+}
+#techReport2 a{
+	padding-left: 20px;
+}
+
+#techReport3{
+	width: 90%;
+	max-width: 1000px;
+	margin: 10px auto;
+	border: 1px solid #04030f;
+}
+#techReport3 h4{
+	padding-left: 20px;
+}
+#techReport3 p{
+	padding-left: 20px;
+}
+#techReport3 img{
+	padding-left: 20px;
+	width: 90%;
+}
+#reportLeftSideHeader2 p2{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+#techReport4{
+	width: 90%;
+	max-width: 1000px;
+	margin: 10px auto;
+	border: 1px solid #04030f;
+}
+#techReport4 h4{
+	padding-left: 0px;
+}
+.reportRightSideHeader{
+	float: right;
+	width: 60%;
+}
+.reportRightSideHeader p{
+	padding-top: 20px;
+	padding-left: 0px;
+	padding-right: 60px;
+	margin: 0px;
+}
+.reportRightSideHeader2{
+	float: right;
+	width: 52%;
+}
+.reportRightSideHeader2 p{
+	padding-left: 0px;
+	padding-right: 60px;
+	margin: 0px;
+}
+.reportRightSideHeader2 p2{
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	color: #04030f;
+}
+.reportLeftSideHeader{
+	float: left;
+	width: 35%;
+}
+.reportLeftSideHeader img{
+	padding: 20px;
+	width:100%;
+	
+}
+.reportLeftSideHeader2{
+	float: left;
+	width: 45%;
+}
+.reportLeftSideHeader2 img{
+	width:100%;
+	
+}
+.reportLeftSideHeader2 p3{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.reportLeftSideHeader2 p{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.LeftSideHeader{
+	float: left;
+	width: 25%;
+}
+.LeftSideHeader h4{
+	padding-left: 20px;
+	margin: 0px;
+	display: inline-block;
+}
+.LeftSideHeader p{
+	margin: 0px;
+	display: inline-block;
+}
+.LeftSideid{
+	float: left;
+	width: 20%;
+	padding: auto;
+	margin: auto;
+}
+.LeftSideHeader img{
+	padding: 20px;
+	width:80%;
+	
+}
+.mainContentsRight{
+	float: right;
+	width: 75%;
+}
+.mainContentsRight p{
+	padding-left: 0px;
+}
+.mainContentsRight img{
+	padding-bottom: 20px;
+}
+.mainContentsRight1{
+	float: right;
+	width: 75%;
+	
+}
+
+.projectLeftSideHeader{
+	float: left;
+	width: 25%;
+}
+.projectLeftSideHeader img{
+	padding: 20px;
+	width:100%;
+	
+}
+.projectLeftSideHeader p3{
+	padding-left: 20px;	
+}
+.projectContentsRight{
+	padding-top: 0px;
+	float: right;
+	width: 70%;
+}
+.projectContentsRight p{
+	padding-top: 0px;
+	padding-left: 30px;
+}
+.projectContentsRight ul{
+	padding-top: 10px;
+}
+.mainImg{
+	width: 100%;
+	border-bottom: 1px solid #04030f;
+}
+.articleGrouping{
+	border: 1px solid #04030f;
+}
+.Learning{
+	width: 90%;
+}
+.Project{
+	width: 90%;
+	border-bottom: 1px solid #04030f;
+}
+.Project1{
+	width: 90%;
+}
+
+ul{
+	font-family: Arial;
+	color: #04030f;
+}
+h1{
+	font-family: Arial;
+	font-size: 3em;
+	border-bottom: 1px solid #04030f;
+	color: #04030f;
+	margin: 10px auto;
+}
+h2{
+	font-family: Arial;
+	font-size: 2em;
+	border-bottom: 1px solid #04030f;
+	color: #04030f;
+	display: inline-block;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+h3{
+	font-family: Arial;
+	font-size: 2em;
+	color: #04030f;
+	border-bottom: 1px solid #04030f;
+}
+h4{
+	font-family: Arial;
+	color: #04030f;
+}
+h4a{
+	font-family: Arial;
+	color: #04030f;
+	padding: 20px;
+	margin: 0px;
+}
+h4b{
+	font-family: Arial;
+	color: #04030f;
+	padding-left: 20px;
+	margin: 0px;
+}
+p{
+	font-family: Arial;
+	color: #F5FBEF;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+h5{
+	font-family: Arial;
+	font-size: 3em;
+	color: #04030f;
+	border-bottom: 1px solid #04030f;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	display: inline-block;
+}
+.mobile-button {
+	width: 80%;
+}
+span {  
+   display: inline-block; 
+  }
+span p2{
+	font-family: Arial;
+	color: #04030f;
+	padding-left: 0px;
+	padding-right: 0px;
+}

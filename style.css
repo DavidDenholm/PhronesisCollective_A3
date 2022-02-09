@@ -377,6 +377,10 @@ h5{
 .mobile-button {
 	width: 80%;
 }
+#randomname img {  
+	display: inline-block; 
+	width: 100px;
+  }
 span {  
    display: inline-block; 
   }

@@ -11,6 +11,12 @@ html, body{
 	background: #81A4CD;
 	margin: 30px auto;
 }
+#project{
+	width: 90%;
+	max-width: 1000px;
+	background: #81A4CD;
+	margin: 30px auto;
+}
 .mainDetails{
 	float: auto;
 	padding-bottom: 0px;
@@ -377,7 +383,7 @@ h5{
 .mobile-button {
 	width: 80%;
 }
-#randomname img {  
+#project img {  
 	display: inline-block; 
 	width: 100px;
   }

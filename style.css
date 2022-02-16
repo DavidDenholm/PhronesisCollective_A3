@@ -362,7 +362,9 @@ h4b{
 	font-family: Arial;
 	color: #04030f;
 	padding-left: 20px;
+	padding-right: 20px;
 	margin: 0px;
+	font-weight: bold;
 }
 p{
 	font-family: Arial;
